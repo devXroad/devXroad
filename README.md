@@ -49,7 +49,6 @@ Comprometido con las mejores prácticas y arquitecturas escalables y mantenibles
   <img src="https://skillicons.dev/icons?i=js" width="70" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=java" width="70" title="Java" />
   <img src="https://skillicons.dev/icons?i=mysql" width="70" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=spring" width="70" title="Spring" />
 </div>
 
 ### 🛠️ Herramientas
