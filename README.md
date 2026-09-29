@@ -47,7 +47,7 @@ Me interesa el desarrollo de software bien estructurado. Prefiero aprender de fo
 
 ### Entorno y Herramientas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman,docker,git,github,linux&perline=10" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,postman,docker,git,github,linux&perline=10" alt="Herramientas" />
 </div>
 
 <br/>
