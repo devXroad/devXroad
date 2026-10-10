@@ -19,7 +19,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="420" alt="Chema — ASCII portrait" /></td>
+<td valign="top"><img src="./avi-ascii.svg?v=2" width="420" alt="Chema — ASCII portrait" /></td>
 <td valign="top"><img src="./stats.svg" width="420" alt="devXroad's GitHub streak and contribution stats — auto-refreshed daily" /></td>
 </tr>
 </table>
