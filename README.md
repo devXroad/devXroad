@@ -54,13 +54,13 @@
 
 <h3><code>devXroad@github ~ $ ls skills/</code></h3>
 
-<table align="center" width="100%">
+<table align="center" width="860">
   <tr>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="430" valign="top">
       <h4>Lenguajes y Frameworks</h4>
       <img src="https://skillicons.dev/icons?i=java,php,js,ts,nodejs,html,css,mysql,mongodb,angular,react,laravel&perline=4" />
     </td>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="430" valign="top">
       <h4>Entorno y Herramientas</h4>
       <img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,postman,docker,git,github,linux&perline=4" />
     </td>
@@ -71,14 +71,14 @@
 
 <h3><code>devXroad@github ~ $ cat soft_skills.txt</code></h3>
 
-<div align="left">
-  <ul>
-    <li><b>Adaptabilidad</b> para integrarme en nuevos entornos tecnológicos.</li>
-    <li><b>Resolución de problemas</b> con enfoque analítico y eficiente.</li>
-    <li><b>Trabajo en equipo</b> fomentando el compañerismo.</li>
-    <li><b>Proactividad</b> para seguir aprendiendo fuera del aula.</li>
-    <li><b>Iniciativa</b> a la hora de proponer soluciones funcionales.</li>
-  </ul>
+<div align="center">
+  <p align="center">
+    • <b>Adaptabilidad</b> para integrarme en nuevos entornos tecnológicos.<br>
+    • <b>Resolución de problemas</b> con enfoque analítico y eficiente.<br>
+    • <b>Trabajo en equipo</b> fomentando el compañerismo.<br>
+    • <b>Proactividad</b> para seguir aprendiendo fuera del aula.<br>
+    • <b>Iniciativa</b> a la hora de proponer soluciones funcionales.
+  </p>
 </div>
 
 </div>
