@@ -56,17 +56,13 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%" valign="top">
-      <h4>Lenguajes y Entornos</h4>
-      <img src="https://skillicons.dev/icons?i=java,php,js,ts,nodejs,html,css,mysql,mongodb&perline=3" />
+    <td align="center" width="50%" valign="top">
+      <h4>Lenguajes y Frameworks</h4>
+      <img src="https://skillicons.dev/icons?i=java,php,js,ts,nodejs,html,css,mysql,mongodb,angular,react,laravel&perline=4" />
     </td>
-    <td align="center" width="33%" valign="top">
-      <h4>Frameworks</h4>
-      <img src="https://skillicons.dev/icons?i=angular,react,laravel&perline=3" />
-    </td>
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="50%" valign="top">
       <h4>Entorno y Herramientas</h4>
-      <img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,postman,docker,git,github,linux&perline=3" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,postman,docker,git,github,linux&perline=4" />
     </td>
   </tr>
 </table>
